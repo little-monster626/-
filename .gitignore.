@@ -1,0 +1,25 @@
+# Временные и системные файлы Windo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECTCLE.BIN/
+*.Ink
+
+# Временные и системные файлы macOS
+. DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Временные файлы Linux
+*~
+.directory
+
+# Бекапы и временные файлы редактор
+*.bak
+*.tmp
+*.temp
+*.swp
+*.swo
+.vscode/
+.idea/
